@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Combining Artificial Intelligence with Formal Methods.
+subtitle: Trustworthy Artificial Intelligence through Formal Methods.
 
 profile:
   align: left
