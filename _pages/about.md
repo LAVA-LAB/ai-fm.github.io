@@ -32,9 +32,10 @@ Our vision of neurosymbolic AI brings together machine learning and formal metho
 
 **Research themes**
 
-* Uncertainty and partial information: decision-making under (epistemic and aleatoric) uncertainty, MDPs and POMDPs
-* Safe reinforcement learning
-* Dynamical systems and control with formal guarantees
 * Neurosymbolic verification: formal guarantees for learning-based systems
+* Safe reinforcement learning
+* Decision-making under uncertainty (MDPs, POMDPs, robust models)
+* Dynamical systems and control learning with formal guarantees
+* Autonomous systems and robotics
 
 **Students:** looking for a thesis topic? See our <a href="/projects/#open">open projects</a> and the <a href="https://informatik.rub.de/en/research/chairs/aifm/theses/" target="_blank">thesis topics at RUB</a>. For courses at RUB, see the <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">chair's page</a>.
