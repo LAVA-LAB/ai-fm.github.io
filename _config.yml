@@ -8,12 +8,12 @@ middle_name:
 last_name: FM
 email: n.jansen@rub.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  AI-FM (Artificial Intelligence & Formal Methods) conducts research around Learning and Verification in decision-making under uncertainty.
+  AI-FM (Artificial Intelligence & Formal Methods) is the research group of Nils Jansen at Ruhr University Bochum and Radboud University Nijmegen. We combine machine learning and formal verification to make AI safe and trustworthy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: learning, verification, decision-making under uncertainty, ai  # add your own keywords or leave empty
+keywords: AI-FM, Artificial Intelligence and Formal Methods, Nils Jansen, Ruhr University Bochum, Radboud University, AI Safety, Trustworthy AI, Formal Methods, Formal Verification, Neurosymbolic AI, Neurosymbolic Verification, Machine Learning, Safe Reinforcement Learning, Decision-Making under Uncertainty, Dynamical Systems, Control, Autonomous Systems, Robotics, POMDP, MDP  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /logos/logoShield.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
