@@ -6,7 +6,7 @@ title: AI-FM  # the website title (if blank, full name will be used instead)
 first_name: AI
 middle_name:
 last_name: FM
-email: n.jansen@science.ru.nl
+email: n.jansen@rub.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   AI-FM (Artificial Intelligence & Formal Methods) conducts research around Learning and Verification in decision-making under uncertainty.
 footer_text: >
