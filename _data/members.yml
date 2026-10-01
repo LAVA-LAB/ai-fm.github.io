@@ -7,11 +7,11 @@
     I am interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement learning.
     A key aspect of my research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world.
   interests:
-    - artificial intelligence
-    - planning under uncertainty
-    - POMDPs
+    - neurosymbolic verification
     - safe reinforcement learning
-    - formal verification
+    - decision-making under uncertainty
+    - dynamical systems and control learning
+    - autonomous systems and robotics
   # social
   github_username: # your GitHub user name
   gitlab_username: # your GitLab user name
