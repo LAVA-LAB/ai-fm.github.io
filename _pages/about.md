@@ -18,18 +18,23 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-AI-FM (Artificial Intelligence & Formal Methods) is a research group headed by <a href="https://nilsjansen.org/" target="_blank">Prof. Dr. Nils Jansen</a>, with members of both the Ruhr University Bochum (RUB) and Radboud University Nijmegen.
-Our group has a mission: 
+<p class="text-center text-muted small" style="margin-top:-0.5rem;">The AI-FM team in Bochum, 2026</p>
 
-**Increase the trustworthiness of Artificial Intelligence (AI)**
+AI-FM (Artificial Intelligence & Formal Methods) is a research group headed by <a href="https://nilsjansen.org/" target="_blank">Prof. Dr. Nils Jansen</a>, with members at Ruhr University Bochum (RUB) and Radboud University Nijmegen.
 
-We conduct broad foundational and application-driven research. Our vision of neurosymbolic AI brings together the areas of machine learning and formal methods, in particular, formal verification. We tackle problems that are inspired by autonomous systems and planning problems in robotics.
+**Mission: making AI trustworthy by design.**
 
-The following goals are central to our efforts:
+Our vision of neurosymbolic AI brings together machine learning and formal methods, in particular formal verification. We conduct foundational and application-driven research, inspired by autonomous systems and planning problems in robotics. Our goals:
+
 * Increase the dependability of AI in safety-critical environments.
 * Render AI models robust against uncertain knowledge about their environment.
-* Enhance the capabilities of formal verification to handle real-world problems using learning techniques.
+* Enhance formal verification with learning techniques to handle real-world problems.
 
-We are interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement Learning. A key aspect of our research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world.
+**Research themes**
 
-For additional information on the education provided by the AI-FM chair at the RUB, see our <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">official RUB page</a>.
+* <a href="/research/uncertainty_partial_information">Uncertainty and partial information</a>: decision-making under (epistemic and aleatoric) uncertainty, MDPs and POMDPs
+* <a href="/research/reinforcement_learning">Safe reinforcement learning</a>
+* <a href="/research/dynamical_systems">Dynamical systems</a> and control with formal guarantees
+* Neurosymbolic verification: formal guarantees for learning-based systems
+
+**Students:** looking for a thesis topic? See our <a href="/projects/#open">open projects</a> and the <a href="https://informatik.rub.de/en/research/chairs/aifm/theses/" target="_blank">thesis topics at RUB</a>. For courses at RUB, see the <a href="https://informatik.rub.de/en/research/chairs/aifm/" target="_blank">chair's page</a>.

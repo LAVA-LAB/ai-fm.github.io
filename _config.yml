@@ -94,9 +94,10 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  <p>Mercator 1 Building</p>
-  <p>Toernooiveld 212</p>
-  <p>6525 EC Nijmegen</p>
+  <b>Ruhr University Bochum</b><br>
+  Chair of Artificial Intelligence and Formal Methods, MC building, Universitätsstr. 150, 44801 Bochum, Germany<br><br>
+  <b>Radboud University Nijmegen</b><br>
+  Mercator 1 Building, Toernooiveld 212, 6525 EC Nijmegen, The Netherlands
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
