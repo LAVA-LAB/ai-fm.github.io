@@ -210,6 +210,14 @@
   github_username: markelz
   linkedin_username: markel-zubia-b57459252
 
+- firstname: Tobias
+  lastname: Winkler
+  position: Postdoc
+  image: user.svg
+  url: 
+  teaser: >
+    Joining the group as a postdoctoral researcher in 2027.
+
 - firstname: Marcel
   lastname: Neuhausen
   position: Postdoc
@@ -232,6 +240,9 @@
   scholar_userid: Ss9FoHAAAAAJ
   orcid_id: 0000-0001-7765-8140
   research_gate_profile: Marcel-Neuhausen
+  former: true
+  start_year: 2024
+  exit_year: 2026
 
 
 ### RADBOUD - FORMER ###
